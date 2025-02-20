@@ -2,7 +2,7 @@
 
 # Overview
 
-This project is a simple yet effective Resume Matching System that extracts keywords from resumes and job descriptions to determine the best candidate for a given job. It utilizes spaCy for natural language processing and TF-IDF vectorization to compute similarity scores. The project is designed for HR professionals to quickly assess which resumes best match a job description. 
+This project is a simple yet effective Resume Matching System that extracts keywords from resumes and job descriptions to determine the best candidate for a given job. It utilizes spaCy for natural language processing and TF-IDF vectorization to compute similarity scores. The project is designed for HR professionals and individuals to quickly assess which skills best match a job description. 
 
 # Features
 
